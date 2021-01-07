@@ -4,6 +4,14 @@ Typeset draft bills like a pro! (UK)
 ## Executive Summary
 For those who want to typeset in the style of UK legislation, I have created a clone of the Book Antiqua Parliamentary typeface used for the official publication of statutes.  This is also useful for those who don't like Palatino/Book Antiqua's native quotation marks.
 
+## Visual Demonstration
+
+
+<img src="book-antiqua.png" height="45" />
+
+<img src="tg-parl-image.png" height="45" />
+
+
 
 ## Details
 
