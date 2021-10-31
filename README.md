@@ -1,4 +1,4 @@
-# TeX Gyre Parliamentary
+# Palatine Parliamentary
 Typeset draft bills like a pro! (UK). 
 
 ## Executive Summary
