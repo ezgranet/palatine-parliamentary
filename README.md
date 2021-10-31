@@ -10,7 +10,7 @@ For those who want to typeset in the style of UK legislation, I have created a c
 
 <img src="book-antiqua.png" height="45" />
 
-<img src="tg-parl-image.png" height="45" />
+<img src="palparl.png" height="45" />
 
 
 
