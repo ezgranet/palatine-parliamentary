@@ -1,5 +1,5 @@
 # Palatine Parliamentary
-Typeset draft bills like a pro! (UK). [Click here to download](https://github.com/ezgranet/palatine-parliamentary/releases/download/3.2/all-fonts.zip)
+Typeset draft bills like a pro! (UK). [Click here to download](https://github.com/ezgranet/palatine-parliamentary/archive/refs/tags/3.3.zip)
 
 ## Executive Summary
 For those who want to typeset in the style of UK legislation, I have created a clone of the Book Antiqua™ Parliamentary typeface used for the official publication of statutes.  Book Antiqua Parliamentary is not publicly available, but is known to be a custom blend of Book Antiqua™ and Times New Roman™  ; hence, I created this typeface with (legally) just such a blend.  It also fulfils the need for clearer punctuation marks than the default ones in Palatino™ (and similar); see, eg, [this StackExchange thread](https://tex.stackexchange.com/questions/359899/can-one-change-the-font-used-by-csquotes).
